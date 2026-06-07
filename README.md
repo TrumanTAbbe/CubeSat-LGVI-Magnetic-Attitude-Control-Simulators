@@ -35,7 +35,7 @@ MATLAB simulation repository for publication "Validated Lie Group Variational In
 - `AttitudeSim005_LGVI_GASRATS_MonteCarlo/`  
   Large-scale 1,001-trial Monte Carlo on the Lie group variational integrator-based attitude simulator with magnetic hysteresis, testing eight different sizing and magnetic control configurations.
   <p align="center">
-    <img src="AttitudeSim005_LGVI_GASRATS_MonteCarlo/1,001-Trial_Monte_Carlo_Visual.png" width="800">
+    <img src="AttitudeSim005_LGVI_GASRATS_MonteCarlo/1,001-Trial_Monte_Carlo_Visual.png" width="700">
   </p>
 
 - `Conference_Paper/`  
