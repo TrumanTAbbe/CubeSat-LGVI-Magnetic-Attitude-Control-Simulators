@@ -6,27 +6,37 @@ MATLAB simulation repository for publication "Validated Lie Group Variational In
 
 - `AttitudeSim001_RK45_CSSWE_Validation/`  
   Validation of a quaternion RK45 attitude simulator with magnetic hysteresis against results from Gerhardt's "Passive Magnetic Attitude Control for CubeSat Spacecraft" (2010).
-  ![CSSWE Angular Velocity](AttitudeSim001_RK45_CSSWE_Validation/CSSWE_Angular_Velocity.png)
-  ![CSSWE Pointing Error](AttitudeSim001_RK45_CSSWE_ValidationCSSWE_Pointing_Error.png)
+  <p align="center">
+    <img src="AttitudeSim001_RK45_CSSWE_Validation/CSSWE_Angular_Velocity.png" alt="CSSWE Angular Velocity" width="420">
+    <img src="AttitudeSim001_RK45_CSSWE_Validation/CSSWE_Pointing_Error.png" alt="CSSWE Pointing Error" width="420">
+  </p>
 
 - `AttitudeSim002_LGVI_RAX_Validation/`  
   Validation of a Lie group variational integrator-based attitude simulator with magnetic hysteresis against results from Park et al.'s "A Dynamic Model of a Passive Magnetic Attitude Control System for the RAX Nanosatellite" (2010).
-  ![RAX Angular Velocity](AttitudeSim002_LGVI_RAX_Validation/RAX_Scenario-4_Angular_Velocity.png)
-  ![RAX Pointing Error](AttitudeSim002_LGVI_RAX_Validation/RAX_Scenario-4_Pointing_Error.png)
+  <p align="center">
+    <img src="AttitudeSim002_LGVI_RAX_Validation/RAX_Scenario-4_Angular_Velocity.png" alt="RAX Angular Velocity" width="420">
+    <img src="AttitudeSim002_LGVI_RAX_Validation/RAX_Scenario-4_Pointing_Error.png" alt="RAX Pointing Error" width="420">
+  </p>
 
 - `AttitudeSim003_RK45_GASRATS_CrossFramework/`  
   Simulation of GASRATS-3U using the validated quaternion RK45 attitude simulator with magnetic hysteresis for a cross-framework verification study.
-  ![GASRATS RK45 Angular Velocity](AttitudeSim003_RK45_GASRATS_CrossFramework/GASRATS_QRK45_Angular_Velocity.png)
-  ![GASRATS RK45 Pointing Error](AttitudeSim003_RK45_GASRATS_CrossFramework/GASRATS_QRK45_Pointing_Error.png)
+  <p align="center">
+    <img src="AttitudeSim003_RK45_GASRATS_CrossFramework/GASRATS_QRK45_Angular_Velocity.png" alt="GASRATS RK45 Angular Velocity" width="420">
+    <img src="AttitudeSim003_RK45_GASRATS_CrossFramework/GASRATS_QRK45_Pointing_Error.png" alt="GASRATS RK45 Pointing Error" width="420">
+  </p>
 
 - `AttitudeSim004_LGVI_GASRATS_CrossFramework/`  
   Simulation of GASRATS-3U using the validated Lie group variational integrator-based attitude simulator with magnetic hysteresis for a cross-framework verification study.
-  ![GASRATS LGVI Angular Velocity](AttitudeSim004_LGVI_GASRATS_CrossFramework/GASRATS_LGVI_Angular_Velocity.png)
-  ![GASRATS LGVI Pointing Error](AttitudeSim004_LGVI_GASRATS_CrossFramework/GASRATS_LGVI_Pointing_Error.png)
+  <p align="center">
+    <img src="AttitudeSim004_LGVI_GASRATS_CrossFramework/GASRATS_LGVI_Pointing_Error.png" width="420">
+    <img src="AttitudeSim004_LGVI_GASRATS_CrossFramework/GASRATS_LGVI_Angular_Velocity.png" width="420">
+  </p>
 
 - `AttitudeSim005_LGVI_GASRATS_MonteCarlo/`  
   Large-scale 1,001-trial Monte Carlo on the Lie group variational integrator-based attitude simulator with magnetic hysteresis for eight different sizing and magnetic control configurations.
-  ![GASRATS LGVI Monte Carlo Results](AttitudeSim005_LGVI_GASRATS_MonteCarlo/1,001-Trial_Monte_Carlo_Visual.png)
+  <p align="center">
+    <img src="AttitudeSim005_LGVI_GASRATS_MonteCarlo/1,001-Trial_Monte_Carlo_Visual.png" width="700">
+  </p>
 
 - `Conference_Paper/`  
   Conference paper associated with this repository, "Validated Lie Group Variational Integrator-Based Simulator for Passive Magnetic Attitude Control of the GASRATS CubeSat." Selected for publication in the 40th annual Small Satellite Conference via the 34th Annual Frank J. Redd Student Competition. 
