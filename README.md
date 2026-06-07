@@ -65,7 +65,7 @@ Paper PDF: [`SSC26-VIII-01_SmallSat40_Abbe.pdf`](Conference_Paper/SSC26-VIII-01_
 
 The full reference list for the validation models and background literature is included in the conference paper.
 
-## Citation
+## How To Cite
 
 If you use this code or build on this repository in academic work, please cite:
 
