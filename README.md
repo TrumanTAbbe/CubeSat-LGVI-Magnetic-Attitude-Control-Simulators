@@ -33,7 +33,7 @@ MATLAB simulation repository for publication "Validated Lie Group Variational In
   </p>
 
 - `AttitudeSim005_LGVI_GASRATS_MonteCarlo/`  
-  Large-scale 1,001-trial Monte Carlo on the Lie group variational integrator-based attitude simulator with magnetic hysteresis, testing eight different sizing and magnetic control configurations. MATLAB's Parallel Computing Toolbox is utilized to decrease runtime, and eight workers are configured to run on the CPU.
+  Large-scale 1,001-trial Monte Carlo on the Lie group variational integrator-based attitude simulator with magnetic hysteresis, testing eight different sizing and magnetic control configurations. MATLAB's Parallel Computing Toolbox is utilized to decrease runtime, and eight workers are configured to run on the CPU. Runtime was about 16 hours.
   <p align="center">
     <img src="AttitudeSim005_LGVI_GASRATS_MonteCarlo/1,001-Trial_Monte_Carlo_Visual.png" width="700">
   </p>
