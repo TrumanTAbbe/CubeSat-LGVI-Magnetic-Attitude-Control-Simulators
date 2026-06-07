@@ -7,15 +7,15 @@ MATLAB simulation repository for publication "Validated Lie Group Variational In
 - `AttitudeSim001_RK45_CSSWE_Validation/`  
   Validation of a quaternion RK45 attitude simulator with magnetic hysteresis against results from Gerhardt's "Passive Magnetic Attitude Control for CubeSat Spacecraft" (2010).
   <p align="center">
-    <img src="AttitudeSim001_RK45_CSSWE_Validation/CSSWE_Angular_Velocity.png" alt="CSSWE Angular Velocity" width="420">
-    <img src="AttitudeSim001_RK45_CSSWE_Validation/CSSWE_Pointing_Error.png" alt="CSSWE Pointing Error" width="420">
+    <img src="AttitudeSim001_RK45_CSSWE_Validation/CSSWE_Angular_Velocity.png" alt="CSSWE Angular Velocity" width="400">
+    <img src="AttitudeSim001_RK45_CSSWE_Validation/CSSWE_Pointing_Error.png" alt="CSSWE Pointing Error" width="400">
   </p>
 
 - `AttitudeSim002_LGVI_RAX_Validation/`  
   Validation of a Lie group variational integrator-based attitude simulator with magnetic hysteresis against results from Park et al.'s "A Dynamic Model of a Passive Magnetic Attitude Control System for the RAX Nanosatellite" (2010).
   <p align="center">
-    <img src="AttitudeSim002_LGVI_RAX_Validation/RAX_Scenario-4_Angular_Velocity.png" alt="RAX Angular Velocity" width="330">
-    <img src="AttitudeSim002_LGVI_RAX_Validation/RAX_Scenario-4_Pointing_Error.png" alt="RAX Pointing Error" width="330">
+    <img src="AttitudeSim002_LGVI_RAX_Validation/RAX_Scenario-4_Angular_Velocity.png" alt="RAX Angular Velocity" width="320">
+    <img src="AttitudeSim002_LGVI_RAX_Validation/RAX_Scenario-4_Pointing_Error.png" alt="RAX Pointing Error" width="320">
   </p>
 
 - `AttitudeSim003_RK45_GASRATS_CrossFramework/`  
@@ -35,7 +35,7 @@ MATLAB simulation repository for publication "Validated Lie Group Variational In
 - `AttitudeSim005_LGVI_GASRATS_MonteCarlo/`  
   Large-scale 1,001-trial Monte Carlo on the Lie group variational integrator-based attitude simulator with magnetic hysteresis for eight different sizing and magnetic control configurations.
   <p align="center">
-    <img src="AttitudeSim005_LGVI_GASRATS_MonteCarlo/1,001-Trial_Monte_Carlo_Visual.png" width="770">
+    <img src="AttitudeSim005_LGVI_GASRATS_MonteCarlo/1,001-Trial_Monte_Carlo_Visual.png" width="800">
   </p>
 
 - `Conference_Paper/`  
