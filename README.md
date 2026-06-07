@@ -17,7 +17,7 @@ MATLAB simulation repository for publication "Validated Lie Group Variational In
   Simulation of GASRATS-3U using the validated Lie group variational integrator-based attitude simulator with magnetic hysteresis for a cross-framework verification study.
 
 - `AttitudeSim005_LGVI_GASRATS_MonteCarlo/`  
-  Large-scale 1,001-trial Monte Carlo on the Lie group variational integrator-based attitude simulator with magnetic hystersis for eight different sizing and magnetic control configurations.
+  Large-scale 1,001-trial Monte Carlo on the Lie group variational integrator-based attitude simulator with magnetic hysteresis for eight different sizing and magnetic control configurations.
 
 - `Conference_Paper/`  
   Conference paper associated with this repository, "Validated Lie Group Variational Integrator-Based Simulator For Passive Magnetic Attitude Control of the GASRATS CubeSat." Selected for publication in the 40th annual Small Satellite Conference via the 34th Annual Frank J. Redd Student Competition. 
