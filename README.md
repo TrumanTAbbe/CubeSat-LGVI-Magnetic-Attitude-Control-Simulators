@@ -50,7 +50,7 @@ The full reference list for the validation models and background literature is i
 
 If you use this code or build on this repository in academic work, please cite:
 
-Truman Abbe, "Validated Lie Group Variational Integrator-Based Simulator for Passive Magnetic Attitude Control of the GASRATS CubeSat," Small Satellite Conference, 2026.
+Truman T. Abbe, "Validated Lie Group Variational Integrator-Based Simulator for Passive Magnetic Attitude Control of the GASRATS CubeSat," Small Satellite Conference, 2026.
 
 ## License
 
