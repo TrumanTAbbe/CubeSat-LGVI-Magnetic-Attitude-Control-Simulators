@@ -1,6 +1,5 @@
 %% | Truman Abbe | Utah State University | truman.abbe23@gmail.com | June 6th, 2026 |
 %% Plotting Script for AttitudeSim001_Results.mat
-%% Quaternion RK45 Validation Against CSSWE Euler Angle RK45
 
 clear; close all; clc;
 
