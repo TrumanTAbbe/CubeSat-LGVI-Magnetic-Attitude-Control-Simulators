@@ -13,20 +13,10 @@ MATLAB simulation repository for publication "Validated Lie Group Variational In
 
 - `AttitudeSim002_LGVI_RAX_Validation/`  
   Validation of a Lie group variational integrator-based attitude simulator with magnetic hysteresis against results from Park et al.'s "A Dynamic Model of a Passive Magnetic Attitude Control System for the RAX Nanosatellite" (2010).
-  <table>
-    <tr>
-      <td align="center">
-        <img src="AttitudeSim002_LGVI_RAX_Validation/RAX_Scenario-4_Angular_Velocity.png" alt="RAX Angular Velocity" width="320">
-        <br>
-        <sub>RAX Angular Velocity</sub>
-      </td>
-      <td align="center">
-        <img src="AttitudeSim002_LGVI_RAX_Validation/RAX_Scenario-4_Pointing_Error.png" alt="RAX Pointing Error" width="320">
-        <br>
-        <sub>RAX Pointing Error</sub>
-      </td>
-    </tr>
-  </table>
+  <p align="center"> 
+    <img src="AttitudeSim002_LGVI_RAX_Validation/RAX_Scenario-4_Angular_Velocity.png" alt="RAX Angular Velocity" width="320"> 
+    <img src="AttitudeSim002_LGVI_RAX_Validation/RAX_Scenario-4_Pointing_Error.png" alt="RAX Pointing Error" width="320"> 
+  </p>
 
 - `AttitudeSim003_RK45_GASRATS_CrossFramework/`  
   Simulation of GASRATS-3U using the validated quaternion RK45 attitude simulator with magnetic hysteresis for a cross-framework verification study.
