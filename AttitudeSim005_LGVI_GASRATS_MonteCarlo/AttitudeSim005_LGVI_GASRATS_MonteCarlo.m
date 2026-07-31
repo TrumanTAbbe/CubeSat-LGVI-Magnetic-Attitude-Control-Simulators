@@ -1,6 +1,6 @@
 %% Truman Abbe | Utah State University | truman.abbe23@gmail.com
 %% 1,001-Trial Monte Carlo Study
-%% SO(3) Lie Group Variational Integrator (LGVI) GASRATS-3U Attitude Simulation
+%% SO(3) Lie Group Variational Integrator (LGVI) GASRATS Attitude Simulation
 %% Uses IGRF-14 and Continuous Flatley-Henretty Hysteresis 
 
 %% NOTES:
