@@ -32,9 +32,6 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % GASRATS PARAMETERS USED IN THIS SIMULATION
-% Configuration 3U
-% Starting Angular Velocity: [10 5 5] deg/s 
-% Rods per axis: 2 (4 total)
 % Rod diameter: 0.0015875 m
 % Rod length: 0.070485 m
 % Apparent B_s: 0.0128 T
