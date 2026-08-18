@@ -48,7 +48,7 @@ MATLAB simulation repository for the publication "Validated Lie Group Variationa
   </p>
 
 - `AttitudeSim007_LGVI_Flatley_GASRATS_MonteCarlo/`
-  This is a Monte Carlo analysis and steady-state prediction for GASRATS on the same simulator configuration from AttitudeSim006. This provides the most accurate prediction for GASRATS so far. 801 random trials were initialized with attitudes ranging over the full attitude sphere and initial velocities ranging from 0 to 35 deg/s. The result saw a safety factor of two for a 14-day settling requirement on pointing error < 15 deg settling criteria. This means that 100% of trials ranging from 0 to 17 deg/s reached steady-state within 14-days.  
+  This is a Monte Carlo analysis and steady-state prediction for GASRATS on the same simulator configuration from AttitudeSim006. This provides the most accurate prediction for GASRATS so far. 801 random trials were initialized with attitudes ranging over the full attitude sphere and initial velocities ranging from 0 to 35 deg/s. The result saw a safety factor of two for a 14-day settling requirement on pointing error < 15 deg settling criteria (2U). This means that 100% of trials ranging from 0 to 17 deg/s reached steady-state within 14-days for 2U configurations.  
   <p align="center">
     <img src="AttitudeSim007_LGVI_Flatley_GASRATS_MonteCarlo/007_inputs_table_png_cropped.png" width="350">
     <img src="AttitudeSim007_LGVI_Flatley_GASRATS_MonteCarlo/007_FullAttitudeSphere_MRP_VelocityGradient.png" width="350">
