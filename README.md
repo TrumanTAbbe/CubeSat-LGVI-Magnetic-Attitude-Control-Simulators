@@ -41,10 +41,10 @@ MATLAB simulation repository for the publication "Validated Lie Group Variationa
 - `AttitudeSim006_LGVI_Flatley_GASRATS_CrossFramework/`
   This is an isolated test of the most realistic simulator configuration so far. It uses a differential Flatley hysteresis model with 4th order integration within the LGVI. It uses Gerhardt's open magnetic circuit rod parameters. This is an expansion of the cross-framework study, and for 0.09 A*m^2 magnet a steady-state convergence in about 7 days was realized.
   <p align="center">
-    <img src="AttitudeSim006_LGVI_Flatley_GASRATS_CrossFramework/006_CF_Angular_Velocity_V9_RK4_2RodsWeakMag0.09.png" width="700">
+    <img src="AttitudeSim006_LGVI_Flatley_GASRATS_CrossFramework/006_CF_Angular_Velocity_V9_RK4_2RodsWeakMag0.09.png" width="550">
   </p>
   <p align="center">
-    <img src="AttitudeSim006_LGVI_Flatley_GASRATS_CrossFramework/006_CF_Pointing_Error_V9_RK4_2RodsWeakMag0.09.png" width="700">
+    <img src="AttitudeSim006_LGVI_Flatley_GASRATS_CrossFramework/006_CF_Pointing_Error_V9_RK4_2RodsWeakMag0.09.png" width="550">
   </p>
 
 - `AttitudeSim007_LGVI_Flatley_GASRATS_MonteCarlo/`
