@@ -41,25 +41,25 @@ MATLAB simulation repository for the publication "Validated Lie Group Variationa
 - `AttitudeSim006_LGVI_Flatley_GASRATS_CrossFramework/`
   This is an isolated test of the most realistic simulator configuration so far. It uses a differential Flatley hysteresis model with 4th order integration within the LGVI. It uses Gerhardt's open magnetic circuit rod parameters. This is an expansion of the cross-framework study, and for 0.09 A*m^2 magnet a steady-state convergence in about 7 days was realized.
   <p align="center">
-    <img src="006_CF_Angular_Velocity_V9_RK4_2RodsWeakMag0.09.png" width="700">
+    <img src="AttitudeSim006_LGVI_Flatley_GASRATS_CrossFramework/006_CF_Angular_Velocity_V9_RK4_2RodsWeakMag0.09.png" width="700">
   </p>
   <p align="center">
-    <img src="006_CF_Pointing_Error_V9_RK4_2RodsWeakMag0.09.png" width="700">
+    <img src="AttitudeSim006_LGVI_Flatley_GASRATS_CrossFramework/006_CF_Pointing_Error_V9_RK4_2RodsWeakMag0.09.png" width="700">
   </p>
 
 - `AttitudeSim007_LGVI_Flatley_GASRATS_MonteCarlo/`
   This is a MonteCarlo and steady-state prediction for GASRATS on the same simulator configuration from AttitudeSim006. This provides the most accurate prediction for GASRATS so far. 801 random trials were initialized with attitudes ranging over the full attitude sphere and initial velocities ranging from 0 to 35 deg/s. The result saw a safety factor of two for a 14-day settling requirement on pointing error < 15 deg settling criteria. This means that 100% of trials ranging from 0 to 17 deg/s reached steady-state within 14-days.  
   <p align="center">
-    <img src="007_inputs_table_png_cropped.png" width="700">
+    <img src="AttitudeSim007_LGVI_Flatley_GASRATS_MonteCarlo/007_inputs_table_png_cropped.png" width="700">
   </p>
   <p align="center">
-    <img src="007_FullAttitudeSphere_MRP_VelocityGradient.png" width="700">
+    <img src="AttitudeSim007_LGVI_Flatley_GASRATS_MonteCarlo/007_FullAttitudeSphere_MRP_VelocityGradient.png" width="700">
   </p>
   <p align="center">
-    <img src="007_MC_Visual_theta15_omegaInf_orbits2.png" width="700">
+    <img src="AttitudeSim007_LGVI_Flatley_GASRATS_MonteCarlo/007_MC_Visual_theta15_omegaInf_orbits2.png" width="700">
   </p>
   <p align="center">
-    <img src="007_spreadsheet_PE_png_cropped.png" width="700">
+    <img src="AttitudeSim007_LGVI_Flatley_GASRATS_MonteCarlo/007_spreadsheet_PE_png_cropped.png" width="700">
   </p>
 
 - `Conference_Paper/`  
